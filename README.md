@@ -2,10 +2,13 @@
  Template with authentication
 
 # Run
- run MongoDB server on your machine\
- `npm start` in Terminal to run Server
+**run MongoDB server on your machine**
+
+`npm start`
 
 # Main File
  `index.js`
 
-Check `Models/userModel.json` for authentication api
+# Note
+
+* Check `Models/userModel.json` for authentication api
